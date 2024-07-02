@@ -57,3 +57,12 @@ form {
   box-shadow: none;
   top: 6px; 
 } 
+
+footer {
+  text-align: center;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 0.75rem;
+  font-weight: 300;
+  padding: 20px;
+}
